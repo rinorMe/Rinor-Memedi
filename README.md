@@ -1,11 +1,11 @@
-How to Write and Publish a Blog
+How to stay focused around technology
 
-A blog is a way to share your ideas with other people. You can write about your hobbies or school topics.
+ <img width="1280" height="625" alt="grafik" src="https://github.com/user-attachments/assets/466fd6f5-8a56-4bac-be1a-81fc6c6b82d2" />
 
-First, choose a topic you like. It is easier to write about something that interests you. Then make a simple plan with an introduction, a main part, and a conclusion.
+Today, technology is everywhere. We have smartphones, laptops, and tablets around us all the time. This can make it hard to stay focused.
 
-Now write your blog text. Use simple words and short sentences. After that, read your text again and check for mistakes.
+When I study, my phone is often a big problem. Messages and social media distract me very fast. To stay focused, I put my phone away or turn on silent mode.
 
-To publish your blog, use a blog website like WordPress or Blogger. Copy your text, add a title, and click “Publish”.
+I also try to use technology in a good way. For example, I use my laptop for research or online learning. Short breaks help me to stay concentrated.
 
-Writing a blog is not difficult. With practice, you can get better.
+In my opinion, technology is helpful, but only if we use it correctly. If we control technology, it can help us stay focused instead of distracting us.
